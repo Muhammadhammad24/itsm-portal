@@ -14,4 +14,4 @@ This project is a **simple self-service web portal** that allows users to:
 - **ITIL Framework** – IT Service Management best practices  
 
 ## 📂 How to Use  
-1. **Download the project** or clone it using:  
+1. **Download the project** or clone it using: https://github.com/Muhammadhammad24/itsm-portal
