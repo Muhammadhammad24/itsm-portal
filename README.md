@@ -47,7 +47,7 @@ python app.py
 3️⃣ Access the Portal
 Open index.html in your browser to interact with the system.
 
-📎 Related Skills
+###📎 Related Skills
 This project enhances your resume by demonstrating:
 ✔ IT Helpdesk Automation – Reducing ticket resolution time
 ✔ IT Service Workflow Optimization – Improving IT support response efficiency
