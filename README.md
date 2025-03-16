@@ -1,4 +1,4 @@
-# 🚀 ITSM Self-Service Portal – Automating IT Support Workflows  
+# ITSM Self-Service Portal – Automating IT Support Workflows  
 
 ## 📌 Overview  
 The **IT Service Management (ITSM) Self-Service Portal** enhances IT support efficiency and reduces helpdesk workload through automation. It empowers employees to:  
