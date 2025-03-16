@@ -1,12 +1,12 @@
 # 🚀 ITSM Self-Service Portal – Automating IT Support Workflows  
 
 ## 📌 Overview  
-The **IT Service Management (ITSM) Self-Service Portal** is designed to enhance IT support efficiency and reduce helpdesk workload through automation. It empowers employees to:  
+The **IT Service Management (ITSM) Self-Service Portal** enhances IT support efficiency and reduces helpdesk workload through automation. It empowers employees to:  
 ✔ **Submit IT support tickets seamlessly**  
 ✔ **Request password resets without manual intervention**  
 ✔ **Track IT issue resolutions in real time**  
 
-This project demonstrates expertise in **helpdesk automation, IT support workflow optimization, and self-service IT solutions**, aligning with **ITIL (Information Technology Infrastructure Library) best practices**.  
+This project showcases expertise in **helpdesk automation, IT support workflow optimization, and self-service IT solutions**, aligning with **ITIL (Information Technology Infrastructure Library) best practices**.  
 
 ## 🛠 Tech Stack & Tools  
 - **Frontend:** HTML, JavaScript (User Interface)  
@@ -37,27 +37,29 @@ This project demonstrates expertise in **helpdesk automation, IT support workflo
 ```bash
 git clone https://github.com/yourusername/itsm-self-service-portal.git
 cd itsm-self-service-portal
+```
 
-2️⃣ Install Dependencies & Run the Flask Backend
-bash
-Copy code
+### 2️⃣ Install Dependencies & Run the Flask Backend  
+```bash
 pip install -r requirements.txt
 python app.py
+```
 
-3️⃣ Access the Portal
-Open index.html in your browser to interact with the system.
+### 3️⃣ Access the Portal  
+Open `index.html` in your browser to interact with the system.  
 
-###📎 Related Skills
-This project enhances your resume by demonstrating:
-✔ IT Helpdesk Automation – Reducing ticket resolution time
-✔ IT Service Workflow Optimization – Improving IT support response efficiency
-✔ Python Flask API Development – Enhancing backend ticket processing
-✔ Database Management – Ensuring IT incidents are logged and tracked efficiently
-✔ Security Best Practices – Implementing authentication and access controls
+## 📎 Related Skills  
+This project enhances your resume by demonstrating:  
+✔ **IT Helpdesk Automation** – Reducing ticket resolution time  
+✔ **IT Service Workflow Optimization** – Improving IT support response efficiency  
+✔ **Python Flask API Development** – Enhancing backend ticket processing  
+✔ **Database Management** – Ensuring IT incidents are logged and tracked efficiently  
+✔ **Security Best Practices** – Implementing authentication and access controls  
 
-👨‍💻 About the Author
-🚀 Muhammad Hammad
-🔗 LinkedIn: mhammad24
-🔗 GitHub: Muhammadhammad24
+## 👨‍💻 About the Author  
+🚀 **Muhammad Hammad**  
+🔗 **LinkedIn:** [mhammad24](https://www.linkedin.com/in/mhammad24)  
+🔗 **GitHub:** [Muhammadhammad24](https://github.com/Muhammadhammad24)  
 
-📢 Want to contribute? Fork the repo and submit a pull request! 🚀
+📢 Want to contribute? **Fork the repo and submit a pull request!** 🚀
+
